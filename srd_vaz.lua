@@ -103,3 +103,34 @@
 		["EnginePos"] = Vector( 0, 61.66, 43.06 ),
 		["WheelHeightFix"] = 0,
 }
+	t["vaz1111pusrd"] = {
+		["Name"] = "VAZ-1111",
+		["Passengers"] = {
+			[1] = { ["x"] = 14, ["y"] = 6, ["z"] = 14},
+		},
+		["DamageResist"] = 1,
+		["Headlights"] = {
+			[1] = Vector( -21.36, 73.53, 28.5 ),
+			[2] = Vector( 21.36, 73.53, 28.5 ),
+		},
+		["TailLights"] = { Vector( 26.33, -78.74, 28.46 ), Vector( -26.33, -78.74, 28.46 ) },
+		["EnginePos"] = Vector( 0, 55.71, 35.16 ),
+		["WheelHeightFix"] = 0,
+}
+	t["vaz2120srd"] = {
+		["Name"] = "VAZ-2120",
+		["Passengers"] = {
+			[1] = { ["x"] = 18, ["y"] = 5, ["z"] = 21},
+			[2] = { ["x"] = -18, ["y"] = 43, ["z"] = 21},
+			[3] = { ["x"] = 18, ["y"] = 43, ["z"] = 21},
+			[4] = { ["x"] = 0, ["y"] = 43, ["z"] = 21}
+		},
+		["DamageResist"] = 1,
+		["Headlights"] = {
+			[1] = Vector( -27.4, 80.74, 37.29 ),
+			[2] = Vector( 27.4, 80.74, 37.29 ),
+		},
+		["TailLights"] = { Vector( 35.99, -105.23, 38.12 ), Vector( -35.99, -105.23, 38.12 ) },
+		["EnginePos"] = Vector( 0, 59.11, 50.95 ),
+		["WheelHeightFix"] = 0,
+}
